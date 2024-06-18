@@ -1,0 +1,9 @@
+name: ${name}
+version: ${version}
+main: test.Main
+description: "${description}"
+author: "${author}"
+api-version: "${apiVersion}"
+# https://modrinth.com/plugin/kotlinmc/versions#all-versions
+depend:
+  - Kotlin
